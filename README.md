@@ -68,3 +68,6 @@ Credit card fraud is a major financial threat. This project aims to identify fra
    ```bash
    git clone https://github.com/your-username/creditcard-fraud-detection.git
    cd creditcard-fraud-detection
+
+2.Vedio Link
+(https://www.loom.com/share/a020376cc5664b9ba61ff6e751020ff1?sid=0c351716-363c-4f3a-85d2-0376f6586134)
